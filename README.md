@@ -1,4 +1,7 @@
-# mutualfund
-#clone this repo and open root folder
-#for frontend cd client and then run npm start command
-# for backend cd server and then run nodemon index.js command 
+Discover the future of stock market prediction with our innovative web application. Powered by machine learning algorithms, it provides real-time insights into stock trends. Seamlessly integrated with Flask for backend functionality and React.js for sleek frontend design, our platform offers a user-friendly experience for traders and investors alike. Stay ahead of the curve with accurate predictions and intuitive visualization—all at your fingertips![stockify](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/0d5aafe0-b72a-4759-8250-59dc21a6d1e6)
+![stock1](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/e3b923bc-2ffc-4071-915c-cdc68ac25fef)
+![stock2](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/3a8beb2e-5801-4c60-9f38-4a67e6304812)
+![stock3](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/11845a49-dd03-4005-a00b-6cbee2b10458)
+![stock4](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/62ebe16a-cdc4-4fda-a31f-47c68059ca47)
+![stock5](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/7e2ff677-0b29-45f7-a402-891eb4439e91)
+![stock6](https://github.com/dhananjaypipalwa/Stockify/assets/110156648/0eed6eb6-7c01-41d8-9c11-d3baeb3383c3)
